@@ -21,3 +21,4 @@ Local Use of MongoDB databse:
 2) Open 2nd terminal and run $mongo
 3) Open 3rd terminal window and run $npm i -g mongoui
 4) Next, run $mongoui to view database
+
