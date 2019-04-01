@@ -12,11 +12,6 @@
   border: 1px solid #ddd;
 }
 
-.active {
-  background-color: #064ECA;
-  border-radius: 15%;
-}
-
 .active a{
   color: white;
 }
@@ -34,7 +29,7 @@
 }
 
 body {
-background-image: linear-gradient(160deg,#064eca 15%,#0459ca 24%,rgb(149, 251, 243) 100%);
+background-image: linear-gradient(160deg,#3C70D3 15%,#0459ca 24%,rgb(149, 251, 243) 100%);
 background-attachment: fixed;
 height: 100vw;
 color: #fff;
@@ -42,28 +37,6 @@ font-weight: bold;
 font-family: sans-serif;
 }
 
-.nav {
-  background-color: #fff;
+.logo {
+  margin-top: 35%;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
